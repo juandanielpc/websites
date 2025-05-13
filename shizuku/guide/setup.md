@@ -1,5 +1,5 @@
 # User manual
-
+pasos completados con éxito 
 [[toc]]
 
 ## Start Shizuku
